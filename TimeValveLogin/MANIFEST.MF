@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: lib/sunjce_provider.jar lib/jtds-1.3.1-sources.jar 
+Main-Class: timevalvelogin.XingLongLogin
